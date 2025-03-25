@@ -1,7 +1,172 @@
-a{
-    color: red;
-}
 
 .textGreen{
     color: green;
+}
+
+h1{
+    color:rgb(23, 116, 116)
+}
+
+.cursiv{
+    font-family: cursive;
+    font-size: 1em;
+    color: #8d6237; /* RGB - 00 00 00 */
+    background-color: #f2dac2;
+}
+
+.geor{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-style: italic;
+    color: rgb(0, 0, 256);
+}
+
+.fant{
+    font-family: fantasy;
+    font-size: medium;
+}
+
+.patata{
+    color: rgb(250, 143, 19);
+    
+}
+
+.weightLighter{
+    font-weight: lighter;
+}
+
+.weightNormal{
+    font-weight: normal;
+}
+
+.weightBold{
+    font-weight: bold;
+}
+
+.weightBolder{
+    font-weight: bolder;
+}
+
+.weight100{
+    font-weight: 100;
+}
+
+.weight300{
+    font-weight: 300;
+}
+
+.weight500{
+    font-weight: 500;
+}
+
+.weight700{
+    font-weight: 700;
+}
+
+.weight900{
+    font-weight: 900;
+}
+
+.variantNormal{
+    font-variant: normal;
+}
+
+.variantSmallCaps{
+    font-variant: small-caps;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.alignJustify{
+    text-align: justify;
+}
+
+.textDecorationNone{
+    text-decoration: none;
+}
+
+.textDecorationLineThrough{
+    text-decoration: line-through;
+}
+
+.textDecorationOverline{
+    text-decoration: overline;
+}
+
+.textDecorationUnderline{
+    text-decoration: underline;
+}
+
+.indent1{
+    text-indent: 4em;
+}
+
+.textShadow{
+    text-shadow: 5px 5px 3px rgb(68, 59, 59);
+}
+
+.textShadows{
+    text-shadow: 
+        5px 5px 3px rgb(68, 59, 59),
+        10px 10px 3px rgb(243, 95, 95),
+        15px 15px 3px rgb(113, 238, 111)
+    ;
+}
+
+.letterSpacingNormal{
+    letter-spacing: normal;
+}
+
+.letterSpacingPositive{
+    letter-spacing: 5px;
+}
+
+.letterSpacingNegative{
+    letter-spacing: -2px;
+}
+
+.wordSpacingNormal{
+    word-spacing: normal;
+}
+
+.wordSpacingPositive{
+    word-spacing: 5px;
+}
+
+.wordSpacingNegative{
+    word-spacing: -2px;
+}
+
+.textTransformNone{
+    text-transform: none;
+}
+
+.textTransformCapitalize{
+    text-transform: capitalize;
+}
+
+.textTransformUppercase{
+    text-transform: uppercase;
+}
+
+.textTransformLowercase{
+    text-transform: lowercase;
+}
+
+.lineheightNormal{
+    line-height: normal;
+}
+
+.lineheight10{
+    line-height: 30px;
 }
