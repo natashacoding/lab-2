@@ -130,7 +130,7 @@ h1{
 .letterSpacingPositive{
     letter-spacing: 5px;
 }
-
+ 
 .letterSpacingNegative{
     letter-spacing: -2px;
 }
@@ -169,4 +169,31 @@ h1{
 
 .lineheight10{
     line-height: 30px;
+}
+
+nav{
+    background-color: rgb(70, 187, 177);
+    color: #8d6237;
+    padding: 10px;
+    display: flex;
+}
+
+.logo{
+    background-color: rgb(5, 44, 41);
+}
+
+ul{
+    margin: 0px;
+}
+
+a{
+   color: pink;
+}
+
+
+
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 0.2em;
 }
